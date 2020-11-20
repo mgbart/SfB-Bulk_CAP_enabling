@@ -1,0 +1,6 @@
+<Config>
+	<OU>OU=US,OU=AMER,OU=SfB Contacts,DC=contoso,DC=com</OU>
+	<SipDomain>contoso.com</SipDomain>
+	<ImportFileName>CAP.csv<ImportFileName>
+</Config>
+

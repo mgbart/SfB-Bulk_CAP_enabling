@@ -1,0 +1,2 @@
+DisplayNumber,E164,Type,Account,DisplayName,VoicePolicy,DialPlan,Pool,ClientPolicy,PIN
++1 111 222 3333,+11112223333,CAP,PHONE-AMER-US-NYC-11112223333,USA New York Meeting Room,AMER-US-NYC-International,AMER-US-NYC,pool01.contoso.com,AMER-US-STD-CAP,123456
